@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# Salgados Meire
 
-`CURSO`
+`TECNÓLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+PROJETO - DESENVOLVIMENTO DE UMA APLICAÇÃO DISTRIBUÍDA
 
-`SEMESTRE`
+SEMESTRE 02/2023
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
