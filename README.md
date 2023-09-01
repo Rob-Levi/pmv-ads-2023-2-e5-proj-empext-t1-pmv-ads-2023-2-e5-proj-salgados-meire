@@ -10,11 +10,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* André Soares
+* André Soares Alves da Silva
 * Felipe Costa Moreira
-* Livia Cristina
-* Robson Levi
-* Raissa Souza
+* Lívia Cristina Leite Nunes Silva
+* Robson Levi Mariano Eduardo
+* Raíssa Araújo Oliveira Queiroz Lopes
 
 ## Orientador
 
